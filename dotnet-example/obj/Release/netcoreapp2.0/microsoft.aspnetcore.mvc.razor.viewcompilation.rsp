@@ -1,0 +1,5 @@
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=dotnet-example
+--content-root=c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example
+--file=

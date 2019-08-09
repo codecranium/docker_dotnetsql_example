@@ -1,0 +1,10 @@
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Debug\netcoreapp2.0\dotnet-example.deps.json
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Debug\netcoreapp2.0\dotnet-example.runtimeconfig.json
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Debug\netcoreapp2.0\dotnet-example.runtimeconfig.dev.json
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Debug\netcoreapp2.0\dotnet-example.dll
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Debug\netcoreapp2.0\dotnet-example.pdb
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Debug\netcoreapp2.0\dotnet-example.csproj.CoreCompileInputs.cache
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Debug\netcoreapp2.0\dotnet-example.AssemblyInfoInputs.cache
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Debug\netcoreapp2.0\dotnet-example.AssemblyInfo.cs
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Debug\netcoreapp2.0\dotnet-example.dll
+C:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Debug\netcoreapp2.0\dotnet-example.pdb

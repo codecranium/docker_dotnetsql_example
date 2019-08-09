@@ -1,0 +1,10 @@
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Release\netcoreapp2.0\dotnet-example.deps.json
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Release\netcoreapp2.0\dotnet-example.runtimeconfig.json
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Release\netcoreapp2.0\dotnet-example.runtimeconfig.dev.json
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Release\netcoreapp2.0\dotnet-example.dll
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\bin\Release\netcoreapp2.0\dotnet-example.pdb
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Release\netcoreapp2.0\dotnet-example.csproj.CoreCompileInputs.cache
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Release\netcoreapp2.0\dotnet-example.AssemblyInfoInputs.cache
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Release\netcoreapp2.0\dotnet-example.AssemblyInfo.cs
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Release\netcoreapp2.0\dotnet-example.dll
+c:\code\examples\docker_dotnetcoresqlsvr\dotnet-example\obj\Release\netcoreapp2.0\dotnet-example.pdb
